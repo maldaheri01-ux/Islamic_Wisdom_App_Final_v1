@@ -1,6 +1,7 @@
-# Islamic Wisdom App - Final v1 (Scaffold)
-**Islamic Wisdom** — Guided by Light of Quran
-Presented by: Hafiz Mufti Muhammad Shuaib Khan Alai
+# تطبيق مُـهتدي Motadi
+**تطبيق مُـهتدي** —دليل المسلم للسنة النبوية 
+عمل/م.محمد مهدي الظاهري
+Presented by:Eng. mohammed Mahdi Al-Alzahiri
 
 ## How to use
 1. Unzip the project.
@@ -24,3 +25,5 @@ Presented by: Hafiz Mufti Muhammad Shuaib Khan Alai
 
 ## Replace with full Quran
 - If you have the translation files, copy them into `assets/quran_data/` and push to GitHub. The build workflow will include them in the APK.
+-Eng. mohammed Mahdi Al-Alzahiri م.محمد مهدي الظاهري
+-الضالع/دمت/الجمهورية اليمنية
