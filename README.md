@@ -1,6 +1,6 @@
 # تطبيق مُـهتدي Motadi
 **تطبيق مُـهتدي** —دليل المسلم للسنة النبوية 
-عمل/م.محمد مهدي الظاهري
+
 Presented by:Eng. mohammed Mahdi Al-Alzahiri
 
 ## How to use
